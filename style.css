@@ -1,0 +1,41 @@
+h1 {
+text-align:center;
+}
+div.b{
+width:820px;
+height:620px;
+margin:0 auto;
+padding:10px;
+background-color:#F5F5F5;
+font-size:18pt;
+text-align:justify;
+}
+
+div.c {
+float:left;
+width:400px;
+height:310px; 
+margin-right:10px;
+font-size:16pt;
+text-align:center;
+}
+img.i1 {
+width:400px;
+padding:5px;
+}
+body{
+background-image:url("../img/images.jpg");
+color:#708090;
+font-family:Monotype Corsiva;
+font-weight:bold;
+}
+img.i2{
+width:500px;
+padding:10px;
+float:left;
+}
+p {
+text-align:center;
+padding:10px;
+
+}
